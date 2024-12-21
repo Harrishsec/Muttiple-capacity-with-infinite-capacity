@@ -18,12 +18,24 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Experiment:
+![PQM Ex5(1) 1](https://github.com/user-attachments/assets/ee8c7e2e-6f81-47bb-a34e-6165c21727c0)
+![PQM Ex5(2) 1](https://github.com/user-attachments/assets/8d0c73fd-b6bf-45cf-b2d4-24b5cda8f360)
+
+
 
 
 ## Program
+![PQM Ex5 code 1](https://github.com/user-attachments/assets/f1e4ef45-9c84-4ca7-9661-3e0c4e7a8381)
+
 
 
 ## Output :
+![PQM Ex5 output 1](https://github.com/user-attachments/assets/1b852ba9-9208-466a-8eab-4a929ecdf5be)
 
-## Result : 
+
+## Result :
+```
+Thus the average number of materials in the system and conveyor, waiting time of
+ each material in the system and conveyor is found successfully.
+```
 
